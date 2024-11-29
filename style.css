@@ -313,12 +313,32 @@ margin-top: 65px;}
         margin-left: 25px;
     }
 
-    .text{
-        font-size: 2rem;
+    .txt{
+        font-size: 1.5rem;
+        margin-top: 35px;
+
         font-family: Arial, Helvetica, sans-serif;
-        margin-left: 25px;
-        margin-top: 95px;
-    color: white;}
+       
+    }
+
+    .text{
+        color: white;
+        margin-left: 35px;
+     
+        
+
+    }
+
+    .qr-des{
+        display: flex;
+      margin-top: 45px;
+        align-items: center;
+    }
+
+    .des{
+        margin-left: 35px;
+        color: white;
+    }
 
 
     
